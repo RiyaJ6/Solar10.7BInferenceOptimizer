@@ -1,0 +1,22 @@
+
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Downloaded Models and Quantized Weights
+solar-10.7b-awq-4bit/
+*.safetensors
+*.bin
+*.pt
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
