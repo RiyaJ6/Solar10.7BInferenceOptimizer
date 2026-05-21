@@ -22,7 +22,7 @@ This repository directly addresses the **latency, throughput, and cost trade-off
 
 ```bash
 # 1. Clone and Install
-git clone [https://github.com/](https://github.com/)[YOUR-GITHUB-USERNAME]/solar-10.7b-inference-optimizer.git
+git clone [https://github.com/](https://github.com/)[RiyaJ6]/solar-10.7b-inference-optimizer.git
 cd solar-10.7b-inference-optimizer
 pip install -r requirements.txt
 
